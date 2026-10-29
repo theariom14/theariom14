@@ -1,4 +1,4 @@
-####Que haces espiando mi perfil!!!
+# Que haces espiando mi perfil!!!
 ### Soy un estudiante, alias Theariom14
 <img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/034904c8-30cf-4f50-b9bb-df6536221611" />
 
