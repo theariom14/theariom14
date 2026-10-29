@@ -1,5 +1,4 @@
-# Que haces espiando mi perfil!!!
-### Soy un estudiante, alias Theariom14
+# Hola, me llamo Mario López, soy un estudiante
 <img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/034904c8-30cf-4f50-b9bb-df6536221611" />
 
 <!--
