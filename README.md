@@ -1,5 +1,7 @@
 ## Hi there 👋
-## Soy un estudiante
+### Soy un estudiante
+<img width="735" height="490" alt="image" src="https://github.com/user-attachments/assets/034904c8-30cf-4f50-b9bb-df6536221611" />
+
 <!--
 **theariom14/theariom14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
